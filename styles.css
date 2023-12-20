@@ -1,28 +1,25 @@
 body{padding: 5em;
-background-color:#EBF2FA}
+background-color:#191919}
 
-h1{text-align: center;
-color:#679436;
-font-size: 2.5em}
-h1{font-family: Courier;
-    border:.5px #05668D solid;
-    width:1000px;
-    padding:.5em;
-    border-radius:1.25em;
-    background-color: #05668D;}
+h1{font-family: 'Shrikhand', serif;
+text-align: center;
+color:#3E8914;
+font-size: 4em}
 
 
-h2{text-align: center;
-color:#427AA1;}
 
-p{width:750px;
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
 color:#427AA1;
-font-size:1em;
-border:.5px #A5BE00 solid;
-    width:800px;
-    padding:.2em;
-    border-radius:1em;
-    background-color: #A5BE00;}
+font-size: 2.5em}
+
+p{font-family: 'Patrick Hand', cursive;
+    text-align: center;
+width:750px;
+color:#427AA1;
+font-size:1.5em;
+}
 /*The next rule centers and spaces the media*/
 img, video, audio, canvas, p{
     display: block; 
